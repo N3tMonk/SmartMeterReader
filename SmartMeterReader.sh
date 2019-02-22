@@ -5,7 +5,7 @@
 # ==============================================================
 # Name    : SmartMeterReader
 # Version : v1.0
-# Author  : N3tMonk
+# Author  : M. Vlaanderen
 # Purpose : Read actual values from a smartmeter.
 # Date    : 01-11-2018
 # License : MIT
